@@ -1,7 +1,7 @@
 
 # GIT INIT:
 
-### *faz um repositório*
+### *Faz um repositório*
 
 
 # COMANDO GIT NO DIRETÓRIO
@@ -12,23 +12,25 @@
 
 #  COMANDO GIT ADD E ESCREVER SOBRE ELE
 
-###  *git add. Um comando muito similar ao “commit” e que trabalha com ele é o “add”. Com essa palavra-chave, nós preparamos arquivos para o próximo “commit”, ou seja, para subir para o repositório na web. É possível adicionar um único arquivo ou todos os arquivos modificados de uma única vez.*
+###  *Git add. Um comando muito similar ao “commit” e que trabalha com ele é o “add”. Com essa palavra-chave, nós preparamos arquivos para o próximo “commit”, ou seja, para subir para o repositório na web. É possível adicionar um único arquivo ou todos os arquivos modificados de uma única vez.*
 
 #  COMANDO QUE CANCELA A PREPARAÇÃO DOS ARQUIVOS
 
-###  *git reset desfaz alterações que estava preparada para o proximo commit*
+###  *Git reset desfaz alterações que estava preparada para o proximo commit*
 
 ## COMANDO GIT COMMIT
 
-### *captura um instantâneo das mudanças preparadas do projeto no momento*
+### *Captura um instantâneo das mudanças preparadas do projeto no momento*
 
 # GIT CLONE
 
-### *criar uma cópia local de um repositório remoto*
+### *Criar uma cópia local de um repositório remoto*
 
 # GIT FETCH 
 
-### *O git fetch baixa o conteúdo remoto e não altera o estado do repositório local diferente do git pull baixa o conteúdo remoto e, de imediato, tenta alterar o estado local para que ele corresponda àquele conteúdo.*
+### *O git fetch baixa o conteúdo remoto e não altera o estado do repositório local diferente do  git pull baixa o conteúdo remoto e, de imediato, tenta alterar o estado local para que ele corresponda àquele conteúdo.*
+
+[x] Tarefa concluida
 
 
 
